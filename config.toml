@@ -1,0 +1,4 @@
+baseURL = "http://dougmellon.com/"
+languageCode = "en-us"
+title = "Doug Mellon"
+theme = "charaka"
