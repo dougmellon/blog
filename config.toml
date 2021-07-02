@@ -1,4 +1,4 @@
-baseURL = "http://dougmellon.com/"
+baseURL = ""
 languageCode = "en-us"
 title = "Doug Mellon"
 theme = "charaka"
