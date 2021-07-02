@@ -13,7 +13,7 @@ draft: false
 ### Three main concerns:
 
 - A.) Reliability - continuing to work correctly, even when things go wrong.
-- B.) Scalability
+- B.) Scalability - coping with the growth of a system.
 - C.) Maintainability
 
 ### A.) Reliability
@@ -35,5 +35,9 @@ it more challenging to do the wrong thing. Find a balance - causing it to be too
 
 - Make sure that you have a quick and easy recovery plan.
 - Use the proper metrics to monitor systems - telemetry.
+
+(pg. 33)
+
+---
 
 [1]: https://netflix.github.io/chaosmonkey/
