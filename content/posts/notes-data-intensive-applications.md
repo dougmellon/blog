@@ -20,6 +20,6 @@ draft: false
 We can't completely eliminate the threat of a fault so instead focus on designing systems that prevent faults from 
 causing failures.
 
-The Netflix Chaos Monkey [^1]
+The Netflix Chaos Monkey [1]
 
-[^]: https://netflix.github.io/chaosmonkey/
+[1]: https://netflix.github.io/chaosmonkey/
