@@ -22,4 +22,7 @@ causing failures.
 
 The Netflix Chaos Monkey [1]
 
+Large cloud platforms, such as AWS, prioritize flexibility and elasticity over single-machine reliability. This can cause
+unexpected outages - hence a move toward software that is itself fault tolerant.
+
 [1]: https://netflix.github.io/chaosmonkey/
