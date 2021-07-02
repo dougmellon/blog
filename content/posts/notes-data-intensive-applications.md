@@ -3,7 +3,7 @@ title: "Notes: Designing Data Intensive Applications"
 date: 2021-07-01T23:17:38-06:00
 draft: false
 ---
-## Chapter 1 (July 1st, 2021)
+## Chapter 1 (July 1st, 2021 - Present)
 ### Initial questions:
 
 - How do you ensure that the data remains correct and complete, even when things go wrong internally?
