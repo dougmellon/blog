@@ -25,4 +25,12 @@ The Netflix Chaos Monkey [1]
 Large cloud platforms, such as AWS, prioritize flexibility and elasticity over single-machine reliability. This can cause
 unexpected outages - hence a move toward software that is itself fault tolerant.
 
+#### Design systems that lower the risk human error:
+
+- Design them in a way that helps eliminate the opportunities for error by making it simple to do the right thing while making
+it more challenging to do the wrong thing. Find a balance - causing it to be too easy will send people looking for ways to
+  work around your limitations.
+  
+- Separate vulnerable areas from those that can cause failures.
+
 [1]: https://netflix.github.io/chaosmonkey/
