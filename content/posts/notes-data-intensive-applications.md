@@ -33,4 +33,7 @@ it more challenging to do the wrong thing. Find a balance - causing it to be too
   
 - Separate vulnerable areas from those that can cause failures.
 
+- Make sure that you have a quick and easy recovery plan.
+- Use the proper metrics to monitor systems - telemetry.
+
 [1]: https://netflix.github.io/chaosmonkey/
