@@ -38,6 +38,13 @@ it more challenging to do the wrong thing. Find a balance - causing it to be too
 
 (pg. 33)
 
----
+#### Outlining and analyzing performance:
+Latency and response time are not the same.
+
+- The response time is the time it takes for a user to make their request and see a response.
+- Latency is the time in which a request is waiting to be handled. [2]
+
+
 
 [1]: https://netflix.github.io/chaosmonkey/
+[2]: https://stackoverflow.com/questions/58082389/what-is-the-difference-between-latency-and-response-time
