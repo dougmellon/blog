@@ -3,7 +3,8 @@ title: "Developing an open MLS API"
 date: 2021-07-06T12:01:02-06:00
 draft: false
 ---
-#A path toward
+##A path toward
+
 One of my priorities for the next year is to build a better understanding of API development. As is common with junior
 developers, I continue to find myself in tutorial hell - repeating the same principles in different languages and
 frameworks - which limits my ceiling of knowledge. To escape this cycle and build on my foundation, I have decided to
