@@ -48,8 +48,8 @@ ignorant to both sides. So here we are.
     - home_club_id: smallint (foreign key: teams table id)
     - away_club_id: smallint (foreign key: teams table id)
     - round: varchar(255)
-    - date: varchar(255) *
-    - start_time: varchar(255) *
+    - date: varchar(255)
+    - start_time: varchar(255)
     - home_xg: 
     
 
