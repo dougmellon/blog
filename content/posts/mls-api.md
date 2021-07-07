@@ -3,6 +3,7 @@ title: "Developing an open MLS API"
 date: 2021-07-06T12:01:02-06:00
 draft: false
 ---
+*This is a living document for the project
 
 ### About the project
 
@@ -17,7 +18,5 @@ pathway for students or those looking to dig in as a hobby. While these services
 clubs around the world require, there is a space that can be filled for those not making front-office decisions.
 
 I am hoping this project can help fill that void.
-
-As this is a work in progress, I will use this page to document my progress.
 
 ### Developing a database scheme
