@@ -50,7 +50,7 @@ ignorant to both sides. So here we are.
     - round: varchar(255)
     - date: varchar(255)
     - start_time: varchar(255)
-    - home_xg: 
+    - home_xg: real  
     
 
 Note: Currently digging into the best way to solve this with the data format
