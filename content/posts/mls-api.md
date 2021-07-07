@@ -29,29 +29,3 @@ To try and simply things, I am going to outline the data I want to begin with an
 back and adding more. There may be reasons as to why this is bad practice or others as to why it's good - but I'm
 ignorant to both sides. So here we are.
 
-###v1 data (postgres):
-
-- Season table.
-    
-    - id: serial
-    - year: smallint
-    
-- Teams table:
-
-    - id: serial
-    - name: varchar(255)
-    
-- Matches table:
-    
-    - id: serial
-    - season_id: smallint (foreign key: seasons table id)
-    - home_club_id: smallint (foreign key: teams table id)
-    - away_club_id: smallint (foreign key: teams table id)
-    - round: varchar(255)
-    - date: varchar(255)
-    - start_time: varchar(255)
-    - home_xg: real  
-    
-
-Note: Currently digging into the best way to solve this with the data format
-
