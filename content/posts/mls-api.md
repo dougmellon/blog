@@ -53,5 +53,5 @@ ignorant to both sides. So here we are.
     - home_xg: 
     
 
-Note (*): Currently digging into the best way to solve this with the data format
+Note: Currently digging into the best way to solve this with the data format
 
